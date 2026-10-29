@@ -1,0 +1,17 @@
+{
+  "aqi_standard": "CPCB_INDIA",
+  "simulator_config": {
+    "active": true,
+    "interval_seconds": 3,
+    "scenario": "realistic_urban",
+    "noise_level": "low",
+    "devices": [
+      "AQI-DEVICE-001",
+      "AQI-DEVICE-002",
+      "AQI-DEVICE-003",
+      "AQI-DEVICE-004"
+    ]
+  },
+  "temperature_unit": "C",
+  "auto_refresh_seconds": 5
+}

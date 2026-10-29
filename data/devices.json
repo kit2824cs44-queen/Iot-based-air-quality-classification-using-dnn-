@@ -1,0 +1,62 @@
+[
+  {
+    "id": "AQI-DEVICE-001",
+    "name": "Traffic Junction Monitor (Sector 18)",
+    "location": "Central Arterial Road, Urban Zone",
+    "status": "online",
+    "last_seen": "2026-10-29T05:25:15.500Z",
+    "reading_count": 144,
+    "firmware_version": "v2.1.4-esp32",
+    "battery_level": 98,
+    "ip_address": "192.168.1.101",
+    "coordinates": {
+      "lat": 28.6139,
+      "lng": 77.209
+    }
+  },
+  {
+    "id": "AQI-DEVICE-002",
+    "name": "Industrial Corridor Air Station",
+    "location": "Phase-II Industrial Park Boundary",
+    "status": "online",
+    "last_seen": "2026-10-29T05:25:04.237Z",
+    "reading_count": 137,
+    "firmware_version": "v2.1.4-esp32",
+    "battery_level": 94,
+    "ip_address": "192.168.1.102",
+    "coordinates": {
+      "lat": 28.5355,
+      "lng": 77.2732
+    }
+  },
+  {
+    "id": "AQI-DEVICE-003",
+    "name": "Academic Campus Micro-Station",
+    "location": "Central University Quadrangle",
+    "status": "online",
+    "last_seen": "2026-10-29T05:25:07.238Z",
+    "reading_count": 154,
+    "firmware_version": "v2.2.0-esp32",
+    "battery_level": 100,
+    "ip_address": "192.168.1.103",
+    "coordinates": {
+      "lat": 28.545,
+      "lng": 77.1926
+    }
+  },
+  {
+    "id": "AQI-DEVICE-004",
+    "name": "Botanical Garden Ecological Node",
+    "location": "Eco-Park Western Perimeter",
+    "status": "online",
+    "last_seen": "2026-10-29T05:25:10.239Z",
+    "reading_count": 120,
+    "firmware_version": "v2.0.8-esp32",
+    "battery_level": 91,
+    "ip_address": "192.168.1.104",
+    "coordinates": {
+      "lat": 28.5933,
+      "lng": 77.2215
+    }
+  }
+]

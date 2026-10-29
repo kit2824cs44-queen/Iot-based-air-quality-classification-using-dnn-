@@ -1,0 +1,6 @@
+{
+  "name": "IoT Air Quality Classification using DNN",
+  "description": "Comprehensive academic IoT-based air quality monitoring and classification platform using Deep Neural Networks (DNN) and environmental sensor telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
